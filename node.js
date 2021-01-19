@@ -7,7 +7,7 @@ console.log("Im fucking ready!")
 
 
 
-bot.login('Nzk3NTA2NTU4MjY3MjI4MTYw.X_nd3A.pOBMOdb0mXXTBQSGboAcGgFL5Mk')
+bot.login('Put token here ^^')
 
 
 bot.on('message', message => {
